@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\Projetos\IFTernario\bin\Debug\net8.0\IFTernario.exe
+C:\Users\usuario\Desktop\Projetos\IFTernario\bin\Debug\net8.0\IFTernario.deps.json
+C:\Users\usuario\Desktop\Projetos\IFTernario\bin\Debug\net8.0\IFTernario.runtimeconfig.json
+C:\Users\usuario\Desktop\Projetos\IFTernario\bin\Debug\net8.0\IFTernario.dll
+C:\Users\usuario\Desktop\Projetos\IFTernario\bin\Debug\net8.0\IFTernario.pdb
+C:\Users\usuario\Desktop\Projetos\IFTernario\obj\Debug\net8.0\IFTernario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Projetos\IFTernario\obj\Debug\net8.0\IFTernario.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Projetos\IFTernario\obj\Debug\net8.0\IFTernario.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Projetos\IFTernario\obj\Debug\net8.0\IFTernario.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Projetos\IFTernario\obj\Debug\net8.0\IFTernario.dll
+C:\Users\usuario\Desktop\Projetos\IFTernario\obj\Debug\net8.0\refint\IFTernario.dll
+C:\Users\usuario\Desktop\Projetos\IFTernario\obj\Debug\net8.0\IFTernario.pdb
+C:\Users\usuario\Desktop\Projetos\IFTernario\obj\Debug\net8.0\IFTernario.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Projetos\IFTernario\obj\Debug\net8.0\ref\IFTernario.dll
